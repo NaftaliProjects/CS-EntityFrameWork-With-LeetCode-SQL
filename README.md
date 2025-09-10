@@ -3,7 +3,7 @@ This repository contains my solutions to various LeetCode SQL problems, implemen
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project, you'll need to have a few things set up on your machine.
 
@@ -37,7 +37,7 @@ To run this project, you'll need to have a few things set up on your machine.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized with a clear structure to keep each problem's solution self-contained and easy to follow.
 
@@ -49,7 +49,7 @@ The project is organized with a clear structure to keep each problem's solution 
 
 ---
 
-## 🧩 Solved Problems
+## Solved Problems
 
 This project currently includes solutions for the following LeetCode problems, with the problem number listed as a heading. Each solution file contains the problem description and example data as comments for easy reference.
 
@@ -73,7 +73,7 @@ This project currently includes solutions for the following LeetCode problems, w
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 Each problem's solution follows a simple pattern:
 
